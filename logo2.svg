@@ -1,0 +1,33 @@
+<svg viewBox="0 0 63.3691 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.369141" height="40.000000" fill="none" customFrame="#000000">
+	<defs>
+		<clipPath id="clipPath_0">
+			<rect width="1.992188" height="40.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+		<clipPath id="clipPath_1">
+			<rect width="47.373047" height="17.998047" x="7.998047" y="10.996094" fill="rgb(255,255,255)" />
+		</clipPath>
+		<clipPath id="clipPath_2">
+			<rect width="17.998047" height="17.998047" x="22.685547" y="10.996094" fill="rgb(255,255,255)" />
+		</clipPath>
+		<clipPath id="clipPath_3">
+			<rect width="7.998047" height="7.998047" x="51.376953" y="3.994141" rx="3.999023" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="Button" width="63.369141" height="40.000000" x="0.000000" y="0.000000" fill="rgb(249,250,251)" />
+	<g id="Container" customFrame="url(#clipPath_0)">
+		<rect id="Container" width="1.992188" height="40.000000" x="0.000000" y="0.000000" fill="rgb(0,102,255)" />
+	</g>
+	<g id="Container" customFrame="url(#clipPath_1)">
+		<rect id="Container" width="47.373047" height="17.998047" x="7.998047" y="10.996094" />
+		<g id="Frame" clip-path="url(#clipPath_2)" customFrame="url(#clipPath_2)">
+			<rect id="Frame" width="17.998047" height="17.998047" x="22.685547" y="10.996094" fill="rgb(255,255,255)" fill-opacity="0" />
+			<path id="Vector" d="M29.4353 13.2458C29.8495 13.2458 30.1853 13.5816 30.1853 13.9958L30.1853 19.2458C30.1853 19.6601 29.8495 19.9958 29.4353 19.9958L25.6853 19.9958C25.2711 19.9958 24.9353 19.6601 24.9353 19.2458L24.9353 13.9958C24.9353 13.5816 25.2711 13.2458 25.6853 13.2458L29.4353 13.2458Z" stroke="rgb(0,102,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M37.6843 13.2458C38.0985 13.2458 38.4343 13.5816 38.4343 13.9958L38.4343 16.2458C38.4343 16.6601 38.0985 16.9958 37.6843 16.9958L33.9343 16.9958C33.5201 16.9958 33.1843 16.6601 33.1843 16.2458L33.1843 13.9958C33.1843 13.5816 33.5201 13.2458 33.9343 13.2458L37.6843 13.2458Z" stroke="rgb(0,102,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M37.6843 19.9951C38.0985 19.9951 38.4343 20.3309 38.4343 20.7451L38.4343 25.9951C38.4343 26.4093 38.0985 26.7451 37.6843 26.7451L33.9343 26.7451C33.5201 26.7451 33.1843 26.4093 33.1843 25.9951L33.1843 20.7451C33.1843 20.3309 33.5201 19.9951 33.9343 19.9951L37.6843 19.9951Z" stroke="rgb(0,102,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M29.4353 22.9948C29.8495 22.9948 30.1853 23.3306 30.1853 23.7448L30.1853 25.9948C30.1853 26.409 29.8495 26.7448 29.4353 26.7448L25.6853 26.7448C25.2711 26.7448 24.9353 26.409 24.9353 25.9948L24.9353 23.7448C24.9353 23.3306 25.2711 22.9948 25.6853 22.9948L29.4353 22.9948Z" stroke="rgb(0,102,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+		</g>
+	</g>
+	<g id="Container" customFrame="url(#clipPath_3)">
+		<rect id="Container" width="7.998047" height="7.998047" x="51.376953" y="3.994141" rx="3.999023" fill="rgb(0,102,255)" />
+	</g>
+</svg>

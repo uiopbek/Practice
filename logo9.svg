@@ -1,0 +1,19 @@
+<svg viewBox="0 0 63.3691 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.369141" height="40.000000" fill="none" customFrame="#000000">
+	<defs>
+		<clipPath id="clipPath_25">
+			<rect width="47.373047" height="17.998047" x="7.998047" y="10.996094" fill="rgb(255,255,255)" />
+		</clipPath>
+		<clipPath id="clipPath_26">
+			<rect width="17.998047" height="17.998047" x="22.685547" y="10.996094" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="Button" width="63.369141" height="40.000000" x="0.000000" y="0.000000" fill="rgb(0,0,0)" fill-opacity="0" />
+	<g id="Container" customFrame="url(#clipPath_25)">
+		<rect id="Container" width="47.373047" height="17.998047" x="7.998047" y="10.996094" />
+		<g id="Frame" clip-path="url(#clipPath_26)" customFrame="url(#clipPath_26)">
+			<rect id="Frame" width="17.998047" height="17.998047" x="22.685547" y="10.996094" fill="rgb(255,255,255)" fill-opacity="0" />
+			<path id="Vector" d="M34.6848 25.9946L34.6848 13.9959C34.6848 13.5981 34.5268 13.2167 34.2455 12.9354C33.9642 12.6541 33.5826 12.4961 33.1848 12.4961L30.1848 12.4961C29.787 12.4961 29.4055 12.6541 29.1242 12.9354C28.8428 13.2167 28.6848 13.5981 28.6848 13.9959L28.6848 25.9946" fill-rule="nonzero" stroke="rgb(107,114,128)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M37.6841 15.4956C38.5124 15.4956 39.1839 16.1671 39.1839 16.9954L39.1839 24.4946C39.1839 25.323 38.5124 25.9945 37.6841 25.9945L25.6854 25.9945C24.857 25.9945 24.1855 25.323 24.1855 24.4946L24.1855 16.9954C24.1855 16.1671 24.857 15.4956 25.6854 15.4956L37.6841 15.4956Z" stroke="rgb(107,114,128)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+		</g>
+	</g>
+</svg>

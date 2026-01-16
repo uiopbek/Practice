@@ -1,0 +1,25 @@
+<svg viewBox="0 0 63.3691 64.6094" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.369141" height="64.609375" fill="none" customFrame="#000000">
+	<defs>
+		<clipPath id="clipPath_12">
+			<rect width="31.376953" height="31.992188" x="15.996094" y="15.996094" fill="rgb(255,255,255)" />
+		</clipPath>
+		<clipPath id="clipPath_13">
+			<rect width="15.996094" height="15.996094" x="23.681641" y="23.994141" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="Container" width="63.369141" height="64.609375" x="0.000000" y="0.000000" stroke="rgb(238,238,238)" stroke-width="0" />
+	<g id="Container" customFrame="url(#clipPath_12)">
+		<rect id="Container" width="31.376953" height="31.992188" x="15.996094" y="15.996094" fill="rgb(249,250,251)" />
+		<rect id="Container" width="31.376953" height="31.992188" x="15.996094" y="15.996094" stroke="rgb(238,238,238)" stroke-width="0" />
+		<g id="Frame" clip-path="url(#clipPath_13)" customFrame="url(#clipPath_13)">
+			<rect id="Frame" width="15.996094" height="15.996094" x="23.681641" y="23.994141" fill="rgb(255,255,255)" fill-opacity="0" />
+			<path id="Vector" d="M27.6807 26.6602C27.6807 26.3066 27.8211 25.9676 28.0711 25.7176C28.3211 25.4676 28.6601 25.3271 29.0137 25.3271L34.3457 25.3271C34.6992 25.3271 35.0383 25.4676 35.2883 25.7176C35.5383 25.9676 35.6787 26.3066 35.6787 26.6602L35.6787 38.6572L27.6807 38.6572L27.6807 26.6602Z" fill-rule="nonzero" stroke="rgb(75,85,99)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M27.6813 31.9922L26.348 31.9922C25.9944 31.9922 25.6552 32.1326 25.4052 32.3826C25.1551 32.6326 25.0146 32.9717 25.0146 33.3252L25.0146 37.3242C25.0146 37.6778 25.1551 38.0168 25.4052 38.2668C25.6552 38.5168 25.9944 38.6572 26.348 38.6572L27.6813 38.6572" fill-rule="nonzero" stroke="rgb(75,85,99)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M35.6787 29.9927L37.012 29.9927C37.3657 29.9927 37.7048 30.1331 37.9549 30.3831C38.2049 30.6331 38.3454 30.9721 38.3454 31.3257L38.3454 37.3242C38.3454 37.6778 38.2049 38.0168 37.9549 38.2668C37.7048 38.5168 37.3657 38.6572 37.012 38.6572L35.6787 38.6572" fill-rule="nonzero" stroke="rgb(75,85,99)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M30.3467 27.9932L33.0133 27.9932" stroke="rgb(75,85,99)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M30.3467 30.6592L33.0133 30.6592" stroke="rgb(75,85,99)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M30.3467 33.3252L33.0133 33.3252" stroke="rgb(75,85,99)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+			<path id="Vector" d="M30.3467 35.9912L33.0133 35.9912" stroke="rgb(75,85,99)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+		</g>
+	</g>
+</svg>
